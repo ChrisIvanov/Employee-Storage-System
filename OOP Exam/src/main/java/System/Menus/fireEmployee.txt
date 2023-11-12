@@ -1,0 +1,4 @@
+Fire employee menu.
+~~~~~~~~~~~~~~~~~~~~
+Enter employee ID:
+~~~~~~~~~~~~~~~~~~~~

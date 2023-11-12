@@ -1,0 +1,7 @@
+Input the new employee data:
+Id:
+Name:
+Start Date(YYYY-MM-DD):
+Department:
+Role:
+Salary:

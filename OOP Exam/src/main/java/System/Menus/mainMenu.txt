@@ -1,0 +1,9 @@
+Welcome!
+Select an option from the menu:
+1. Add Employee
+2. Edit Employee
+3. Fire Employee
+4. List all employees
+5. Exit
+
+Awaiting your input...
